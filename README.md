@@ -44,6 +44,12 @@ Spec-Driven Development **flips the script** on traditional software development
 
 ### 1. Install Specify CLI
 
+> **First time?** Install [uv](https://docs.astral.sh/uv/) first:
+> ```bash
+> curl -LsSf https://astral.sh/uv/install.sh | sh
+> ```
+> Or see the [official installation guide](https://docs.astral.sh/uv/getting-started/installation/) for other methods.
+
 Choose your preferred installation method:
 
 #### Option 1: Persistent Installation (Recommended)
